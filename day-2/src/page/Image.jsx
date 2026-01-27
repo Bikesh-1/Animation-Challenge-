@@ -16,7 +16,7 @@ function Image() {
             <img className='w-60' src="https://images.unsplash.com/photo-1768873494900-3b666f8625e0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0MHx8fGVufDB8fHx8fA%3D%3D" alt="" />
             <img className='w-60' src="https://images.unsplash.com/photo-1768873800529-12451fabe4af?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0N3x8fGVufDB8fHx8fA%3D%3D" alt="" />
         </div>
-        <div data-scroll data-scroll-speed="-1" className='flex flex-col gap-4 justify-center items-center'>
+        <div data-scroll data-scroll-speed="1.5" className='flex flex-col gap-4 justify-center items-center'>
             <img className='w-60' src="https://images.unsplash.com/photo-1671639334426-e27d616492f7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw1Mnx8fGVufDB8fHx8fA%3D%3D" alt="" />
             <img className='w-60' src="https://images.unsplash.com/photo-1768586624424-7077d4ddbfa9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw1MXx8fGVufDB8fHx8fA%3D%3D" alt="" />
             <img className='w-60' src="https://images.unsplash.com/photo-1768739538833-73a1923a0d0a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw1M3x8fGVufDB8fHx8fA%3D%3D" alt="" />
