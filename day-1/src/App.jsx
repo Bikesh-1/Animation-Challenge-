@@ -30,7 +30,7 @@ function App() {
         end: "+=1200", 
         pin:true,
         scrub:1,
-        markers: true,
+        // markers: true,
       }
     });
     tl.to(imgRef.current, { y: -300, duration: 2, scale:0.5, ease: "power3.out" })
